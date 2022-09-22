@@ -1,6 +1,6 @@
 # Accessibility Standards 
 
-## Simple pointer and References 
+## Overview 
 
 This webpage is designed to use as a reference page for material covered in the prework course.
 
@@ -8,9 +8,11 @@ This webpage is designed to use as a reference page for material covered in the 
 - Provides pointers on different functions that are available. 
 - The course gave a basic overview of HTML, CSS, and JavaScript.
 
-## Installation
+## Technologies
 
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
+## Screenshots
+
+## Code Snippet
 
 ## Usage
 
@@ -22,4 +24,4 @@ N/A
 
 ## License
 
-Please refer to the LICENSE in the repo.
+Please refer to the LICENSE in the repo. # Accessibility Standards 
