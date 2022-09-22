@@ -45,7 +45,5 @@ Please refer to the LICENSE in the repo. # Accessibility Standards
 
 ## Links
 
-### GitHub Repository
-
 ### live Link
- https://kvance1010.github.io/accessibility/
+[Live website]https://kvance1010.github.io/accessibility/
