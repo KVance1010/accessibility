@@ -25,3 +25,6 @@ N/A
 ## License
 
 Please refer to the LICENSE in the repo. # Accessibility Standards 
+
+## Links
+ https://kvance1010.github.io/accessibility/
